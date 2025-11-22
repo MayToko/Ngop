@@ -11831,10 +11831,11 @@ https://p7s1-live-009-prod.akamaized.net/97bf783a/t_009/dmax-de/cenc-default.mpd
 #KODIPROP:inputstream.adaptive.license_key=a598d133e3ea508a29255f58e09758bf:ad64ce2c7864315dfd293f454f54bea0
 https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
 
-#EXTINF:-1 tvg-id="natgeo.de" tvg-name="ID: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="CHANNEL | KNOWLEDGE",ID: NAT GEO HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501265.ts
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="ID: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" group-title="CHANNEL | KNOWLEDGE",ID: NAT GEO WILD HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501266.ts
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.pinimg.com/736x/3f/c0/49/3fc04924f2a1832f252977405ac349ad.jpg" group-title="CHANNEL | KNOWLEDGE",National Geographic
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176654.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="CHANNEL | KNOWLEDGE",Nat Geog Wild
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/viasatexplore.png" group-title="CHANNEL | KNOWLEDGE",Viasat EXPLORE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -14679,6 +14680,5 @@ http://gooo.blog/opix/genx.m3u8?id=guangdongtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJI
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 https://gooo.blog/opix/genx.m3u8?id=cetv1&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
-
 
 
